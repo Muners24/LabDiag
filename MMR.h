@@ -4,7 +4,7 @@
 #define STR 30
 
 //** Prototipos
-int validNum(int limi,int lims,int num);
+int validNum(char txt[],int limi,int lims);
 
 
 //** Cuerpos
